@@ -12,6 +12,6 @@ Todos os códigos e desafios desenvolvidos durante o curso.
 5. Importação e exportação
     Como chamar uma função que se encontra em outro arquivo? Como utilizar uma biblioteca de outra pessoa(react,angular, express)
 6. Pokedex
-    Utilizando uma API, conseguimos criar uma pokedex.
+    Utilizando uma API, conseguimos criar uma pokedex. (Projeto em desenvolvimento)
 7. Desafios de códigos
     Todos os desafios de javascript disponiveis na plataforma dio, sendo eles do bootcamp NTT e do bootcamp orange (Em desenvolvimento)
